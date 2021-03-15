@@ -15,3 +15,8 @@ Welcome to my dotfiles :)
 - [Hyper](hyper.is) with [hypermininimal](https://github.com/jancborchardt/hyperminimal) extension
 - Theme: [hyper-horizon-theme](https://github.com/thedoomshine/hyper-horizon-theme)
 - Shell: [zsh](https://github.com/zsh-users/zsh)
+
+### Fonts
+- [Fira code](https://github.com/tonsky/FiraCode)
+- [Nerd fonts](https://github.com/ryanoasis/nerd-fonts) - Icons
+- [Noto Sans](https://fonts.google.com/specimen/Noto+Sans?preview.text_type=custom)
