@@ -20,3 +20,5 @@ Welcome to my dotfiles :)
 - [Fira code](https://github.com/tonsky/FiraCode)
 - [Nerd fonts](https://github.com/ryanoasis/nerd-fonts) - Icons
 - [Noto Sans](https://fonts.google.com/specimen/Noto+Sans?preview.text_type=custom)
+
+### [Keybindings](/documentation/keybindings.md)
