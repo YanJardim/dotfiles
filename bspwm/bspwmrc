@@ -3,10 +3,10 @@
 picom --experimental-backends & # Compositor
 ~/.config/scripts/launch_polybar.sh & # Status bar
 ~/.config/scripts/screens.sh &
-xsetroot -cursor_name left_ptr & # X cursor fix
 dunst & # Notifications
 feh --bg-fill ~/Pictures/wallpaper2.jpg & # Wallpaper
 /usr/lib/polkit-kde-authentication-agent-1 & # Auth agent
+numlockx on # Enable numlock
 sxhkd & # Keyboard shortcuts
 
 bspc monitor DisplayPort-2 -d 1 2 3 4
