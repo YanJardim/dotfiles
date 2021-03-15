@@ -17,3 +17,6 @@
 
 !picom/
 !picom/*
+
+!scripts/
+!scripts/*
