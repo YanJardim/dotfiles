@@ -20,3 +20,6 @@
 
 !scripts/
 !scripts/*
+
+!documentation/
+!documentation/*
